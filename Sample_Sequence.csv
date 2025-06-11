@@ -1,2 +1,3 @@
 Compound,SMILES,Stability_in_SIF,Stability_in_SGF
 Oxytocin,CC[C@H](C)[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)N1)CC2=CC=C(C=C2)O)N)C(=O)N3CCC[C@H]3C(=O)N[C@@H](CC(C)C)C(=O)NCC(=O)N)CC(=O)N)CCC(=O)N,Not Stable,Stable
+ppp,N[C@@]([H])(CCC(=O)O)C(=O)N[C@@]([H])([C@]([H])(CC)C)C(=O)N[C@@]([H])([C@]([H])(CC)C)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(CCC(=O)O)C(=O)N[C@@]([H])(C)C(=O)NCC(=O)N[C@@]([H])(CCCCN)C(=O)O
